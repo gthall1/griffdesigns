@@ -2034,6 +2034,10 @@
 				content: 'View Design' !important;
 			}
 
+			.viewprototype:after {
+				content: 'View Prototype' !important;
+			}
+
 			.image.thumb:hover:after {
 				opacity: 1.0;
 			}
