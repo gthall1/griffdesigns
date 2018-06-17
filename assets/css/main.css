@@ -2856,6 +2856,18 @@
 }
 
 
+/* 17 june 2018 */
+
+.awaycomain {
+    display: block;
+    max-width: 75rem !important;
+    margin-left: auto !important;
+    margin-right: auto;
+    padding: 8em 4em 4em 4em;
+    width: 80% !important;
+}
+
+
 /* Touch */
 
 	body.is-touch .image.thumb:before {
