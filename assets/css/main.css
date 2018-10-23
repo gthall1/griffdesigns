@@ -2038,6 +2038,10 @@
 				content: 'View Prototype' !important;
 			}
 
+			.viewproject:after {
+				content: 'View Project' !important;
+			}
+
 			.image.thumb:hover:after {
 				opacity: 1.0;
 			}
