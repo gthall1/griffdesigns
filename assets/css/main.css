@@ -2871,6 +2871,15 @@
     width: 80% !important;
 }
 
+.eighteen {
+	font-size: 18px;
+	line-height: 32px;
+}
+
+.white {
+	color: #ffffff;
+}
+
 
 /* Touch */
 
