@@ -3219,13 +3219,152 @@
 	}
 
 
+/* big screen responsive review */
+
+
+@media screen and (min-width: 1550px) {
+    
 
 
 
+}
+
+@media screen and (min-width: 1800px) {
+    
+	.awaycomain {
+		max-width: 90rem !important;
+	}
+
+	.topword {
+		font-size: 3em;
+	}
+
+	.eighteen {
+		font-size: 24px;
+		line-height: 40px;
+	}
+
+
+}
+
+@media screen and (min-width: 2300px) {
+    #header .avatar {
+    	width: 11.25em !important;
+    }
+
+    .heygriff {
+    	font-size: 50px !important;
+    }
+
+    header.major h2 {
+    	font-size: 3em;
+    }
+
+    .griffyp {
+    	font-size: 30px;
+    	line-height: 48px;
+    }
+
+    .myrecentwork {
+    	font-size: 2em;
+    }
+
+    .projhead {
+    	font-size: 1.5em !important;
+    }
+
+    .work-item p {
+    	font-size: 26px;
+    }
+
+    .row {
+    	padding-bottom: 100px;
+    }
+
+    .awaycomain {
+    	max-width: 125em !important;
+    }
+
+    .eighteen {
+		font-size: 36px;
+		line-height: 56px;
+	}
+
+	.sectionheads {
+		font-size: 52px;
+	}
 
 
 
+}
 
+
+@media screen and (min-width: 4000px) {
+    
+	#header .avatar {
+    	width: 20.25em !important;
+    }
+
+	.heygriff {
+    	font-size: 88px !important;
+    }
+
+    ul.icons li .icon:before {
+    	font-size: 3.5em;
+    }
+
+    .socialmeds {
+    	padding-right: 100px !important;
+    }
+
+    #main {
+    	max-width: 156em !important;
+    }
+
+    header.major h2 {
+    	font-size: 5em;
+    }
+
+    .griffyp {
+    	font-size: 66px;
+    	line-height: 86px;
+    }
+
+    .myrecentwork {
+    	font-size: 4em;
+    }
+
+    .projhead {
+    	font-size: 3em !important;
+    }
+
+    .work-item p {
+    	font-size: 52px;
+    }
+
+    .row {
+    	padding-bottom: 200px;
+    }
+
+    .topword {
+    	font-size: 6em;
+    }
+
+    .eighteen {
+    	font-size: 56px;
+    	line-height: 86px;
+    }
+
+    .skipbutton {
+    	font-size: 44px;
+    	margin-bottom: 100px;
+    }
+
+    .sectionheads {
+    	font-size: 76px;
+    }
+
+}
 
 
 

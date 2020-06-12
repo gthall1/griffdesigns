@@ -5652,20 +5652,131 @@
 }
 
 @media screen and (min-width: 1800px) {
-    .
+    .littlehelp {
+    	margin-top: 7px !important;
+    }
+
+    .newpad {
+    	padding-bottom: 3rem !important;
+    }
 
 
 }
 
 @media screen and (min-width: 2300px) {
-    .
+    .introsubhead {
+    	max-width: 36rem;
+    	font-size: 38px !important;
+    }
+
+    .yadbig {
+    	font-size: 78px !important;
+    }
+
+    #wrapper > .main > header {
+    	max-width: 44rem;
+    }
+
+    .psize {
+    	font-size: 36px;
+    }
 
 
 }
 
 
 @media screen and (min-width: 4000px) {
-    .
+    #header {
+    	height: 8.25rem;
+    }
+
+    .portthing {
+    	margin-top: 58px;
+    }
+
+    .vstrong {
+    	font-size: 76px;
+    	margin-left: 78px;
+    }
+
+    .navbutton {
+	    margin-bottom: 6px !important;
+	    height: 100px !important;
+	    line-height: 84px !important;
+	    margin-top: 28px !important;
+	    padding-left: 70px !important;
+	    padding-right: 70px !important;
+	    padding-top: 10px !important;
+	    padding-bottom: 10px !important;
+	    font-size: 48px !important;
+    }
+
+    .yadbig {
+    	font-size: 148px !important;
+    }
+
+    .introsubhead {
+    	max-width: 68rem;
+    	font-size: 68px !important;
+    }
+
+    .yaddaicon {
+    	margin-top: -900px !important;
+    }
+
+    #wrapper > .main > header {
+    	max-width: 110rem;
+    }
+
+    .psize {
+    	font-size: 68px;
+    }
+
+    .bigbreath {
+    	margin-top: 300px;
+    	margin-bottom: 100px;
+    	font-size: 88px;
+    }
+
+    .megascreen {
+    	margin-top: 500px !important;
+    }
+
+    #wrapper > .main > .inner {
+    	max-width: 110rem;
+    }
+
+    .bigquote {
+    	font-size: 72px;
+    	line-height: 120px;
+    	margin-top: 300px;
+    }
+
+    .attribution {
+    	font-size: 56px;
+    }
+
+    .biggerbutt {
+    	margin-bottom: 400px !important;
+    }
+
+    .newpad {
+    	padding-bottom: 7rem !important;
+    }
+
+    .mongobtn {
+    	font-size: 44px;
+	    height: 6rem;
+	    padding-top: 35px;
+    }
+
+    .chicup {
+    	margin-top: -900px !important;
+    }
+
+    .thatsodd {
+    	margin-top: 150px !important;
+    }
 
 }
 
