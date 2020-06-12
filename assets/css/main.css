@@ -2576,6 +2576,10 @@
 				color: inherit;
 			}
 
+.v3 {
+		margin-top: 50px;
+	}
+
 /* Main */
 
 	#main {
@@ -3242,6 +3246,10 @@
 	.eighteen {
 		font-size: 24px;
 		line-height: 40px;
+	}
+
+	.v3 {
+		margin-top: 100px;
 	}
 
 
