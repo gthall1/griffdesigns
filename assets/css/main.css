@@ -2042,6 +2042,10 @@
 				content: 'View Project' !important;
 			}
 
+			.viewcontact:after {
+				content: 'Please contact to see case study' !important;
+			}
+
 			.image.thumb:hover:after {
 				opacity: 1.0;
 			}
